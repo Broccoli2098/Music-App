@@ -11,7 +11,7 @@ export default async function handler(req, res) {
 		}, // Parameters
 		headers: {
 			'x-rapidapi-host': 'shazam.p.rapidapi.com',
-			'x-rapidapi-key': process.env.NEXT_PUBLIC_RAPIDAPI_KEY // Our API Key
+			'x-rapidapi-key': process.env.e554b10484msh9c13bde92f6ed6bp1e0574jsn15aeb6d9d133 
 		}
 	};
 	axios
